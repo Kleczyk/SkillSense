@@ -67,14 +67,17 @@ def main():
         with st.spinner("Searching..."):
             results = vectorstore.similarity_search(query, k=5)
 
-        st.subheader("Query Results (JSON):")
-        results_list = []
+        st.subheader("Query Results:")
         for res in results:
-            results_list.append({
-                "metadata": res.metadata,
-                "content": res.page_content
-            })
-        st.json(results_list)
+            md = (
+                f"**Name:** {res.metadata.get('name', '')} {res.metadata.get('surname', '')}\n\n"
+                f"**Skill:** {res.metadata.get('skill', '')}\n\n"
+                f"**Description:** {res.metadata.get('description', '')}\n\n"
+                f"**Category:** {res.metadata.get('category', '')} | **Subcategory:** {res.metadata.get('subcategory', '')}\n\n"
+                f"**Content:** {res.page_content}\n\n"
+                "---"
+            )
+            st.markdown(md)
 
 if __name__ == "__main__":
     main()
