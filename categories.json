@@ -1,0 +1,199 @@
+{
+  "Inżynieria": [
+    "Automatyka i robotyka",
+    "Inżynieria systemów",
+    "Elektronika",
+    "Automatyka",
+    "Mechaniczna",
+    "Projektowanie CAD",
+    "Mechatronika",
+    "Mechanika",
+    "Projektowanie i konstruowanie",
+    "Procesy produkcyjne",
+    "Inżynieria mechatroniczna",
+    "Inżynieria elektroniczna",
+    "Informatyka i technologia informacyjna",
+    "Robotyka",
+    "Projektowanie techniczne",
+    "Inżynieria produkcyjna",
+    "Optymalizacja procesów"
+  ],
+  "Nauki ścisłe i przyrodnicze": [
+    "Informatyka",
+    "fizyka",
+    "Fizyka",
+    "Chemia",
+    "Biologia molekularna",
+    "Biologia"
+  ],
+  "Technologia": [
+    "Inżynieria elektryczna",
+    "Inżynieria robotyki",
+    "Programowanie",
+    "Elektronika",
+    "Robotyka",
+    "Informatyka",
+    "Inżynieria mechatroniczna",
+    "Informatyka i technologie",
+    "informatyka",
+    "Automatyka",
+    "Sieci komputerowe",
+    "Inżynieria",
+    "Inżynieria mechaniczna",
+    "Information Technology",
+    "Computer Engineering",
+    "Information Security",
+    "Artificial Intelligence"
+  ],
+  "Techniczne": [
+    "Inżynieria",
+    "Inżynieria mechaniczna"
+  ],
+  "Informatyka": [
+    "Sztuczna inteligencja",
+    "Programowanie mikrokontrolerów",
+    "Analiza danych",
+    "Programowanie",
+    "Systemy wbudowane",
+    "Big Data",
+    "Systemy sterowania",
+    "Bezpieczeństwo informacji",
+    "Inżynieria oprogramowania",
+    "Programowanie embedded",
+    "Bezpieczeństwo IT",
+    "Sieci komputerowe"
+  ],
+  "Nauki ścisłe": [
+    "Chemia",
+    "Statystyka",
+    "Informatyka",
+    "Matematyka",
+    "Fizyka"
+  ],
+  "technologie informatyczne": [
+    "programowanie"
+  ],
+  "Inżynieria przemysłowa": [
+    "Optymalizacja procesów"
+  ],
+  "Nauki chemiczne": [
+    "Chemia organiczna",
+    "Chemistry",
+    "Inżynieria mechaniczna"
+  ],
+  "Nauki biologiczne": [
+    "Genetyka",
+    "Biotechnologia"
+  ],
+  "Inżynieria i Technologia": [
+    "Automatyka i Robotyka",
+    "Elektronika"
+  ],
+  "Inżynieria produkcji": [
+    "Optymalizacja procesów"
+  ],
+  "Nauki o danych": [
+    "Analiza danych",
+    "Sztuczna inteligencja",
+    "Analiza danych chemicznych"
+  ],
+  "Nauki medyczne": [
+    "Medycyna"
+  ],
+  "Biznes i zarządzanie": [
+    "Rozwój produktu"
+  ],
+  "Matematyka": [
+    "Analiza matematyczna"
+  ],
+  "Nauka i technologia": [
+    "Informatyka"
+  ],
+  "Umiejętności życiowe": [
+    "Dom i kuchnia"
+  ],
+  "Information Technology": [
+    "Programming"
+  ],
+  "Computer Science": [
+    "Real-Time Systems",
+    "Computational Chemistry",
+    "Simulation"
+  ],
+  "Engineering": [
+    "Electrical Engineering",
+    "Electronics Testing",
+    "Structural Engineering",
+    "Mechatronics",
+    "Software Engineering",
+    "Aerospace Engineering",
+    "Computational Fluid Dynamics",
+    "Thermodynamics",
+    "Mechanical Engineering"
+  ],
+  "Software Development": [
+    "Prototyping"
+  ],
+  "Data": [
+    "Data Analysis"
+  ],
+  "Academic": [
+    "Interdisciplinary Studies",
+    "Research"
+  ],
+  "Programming": [
+    "Python",
+    "Scripting",
+    "Scripting Languages",
+    "Software Development"
+  ],
+  "Data Science & Machine Learning": [
+    "Machine Learning Development",
+    "Predictive Maintenance"
+  ],
+  "Language": [
+    "Natural Language"
+  ],
+  "Life Skills": [
+    "Cooking"
+  ],
+  "Culinary Arts": [
+    "Cooking and Baking",
+    "Cooking",
+    "Beverage Preparation"
+  ],
+  "Technical Skills": [
+    "Software Development",
+    "Programming",
+    "Engineering"
+  ],
+  "Craftsmanship": [
+    "Shoemaking",
+    "Handcrafting",
+    "Repair and Maintenance"
+  ],
+  "Arts": [
+    "Sculpture",
+    "Photography"
+  ],
+  "Creative Skills": [
+    "Crafting"
+  ],
+  "Legal": [
+    "Intellectual Property Law"
+  ],
+  "Sports": [
+    "Water Sports",
+    "Water sports",
+    "Endurance Sports"
+  ],
+  "Science": [
+    "Physics"
+  ],
+  "Education": [
+    "STEM Education"
+  ],
+  "Communication": [
+    "Public Speaking"
+  ]
+}

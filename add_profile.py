@@ -26,7 +26,8 @@ def load_json(file_path: str, default):
             with open(file_path, "r", encoding="utf-8") as f:
                 return json.load(f)
         except Exception as e:
-            st.error(f"Error loading {file_path}: {e}")
+            # Zamiast wyświetlania błędu, logujemy go lub ignorujemy
+            print(f"Error loading {file_path}: {e}")
             return default
     else:
         return default
@@ -63,7 +64,8 @@ def extract_skills(description: str) -> list:
         if not isinstance(skills, list):
             skills = [skills]
     except Exception as e:
-        st.error(f"Error parsing skills: {e}")
+        # Log error to console instead of wyświetlania komunikatu
+        print(f"Error parsing skills: {e}")
         skills = []
     return skills
 
@@ -97,7 +99,8 @@ def assign_skill(skill: str) -> list:
         if not isinstance(parsed, list):
             parsed = [parsed]
     except Exception as e:
-        st.error(f"Error parsing assignment for skill '{skill}': {e}")
+        # Log error to console instead of wyświetlania komunikatu
+        print(f"Error parsing assignment for skill '{skill}': {e}")
         parsed = [output_parser.parse(raw_text)]
     return parsed
 

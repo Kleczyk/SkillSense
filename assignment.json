@@ -1,0 +1,1276 @@
+{
+  "Inżynieria i Technologia": {
+    "Automatyka i Robotyka": [
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "projektowanie systemów sterowania",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      }
+    ]
+  },
+  "Nauki ścisłe": {
+    "Informatyka": [
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "informatyka",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      },
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "informatyka",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      },
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "algorytmy uczenia maszynowego",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      },
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "informatyka",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      },
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "informatyka",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      },
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "informatyka",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      }
+    ],
+    "Chemia": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "chemia obliczeniowa",
+        "description": "Mam bogate doświadczenie w analizie big data oraz przetwarzaniu języka naturalnego, a także w zastosowaniach chemii obliczeniowej. Pracowałam przy projektach wykorzystujących informatykę, automatykę i symulacje komputerowe w badaniach nad nowymi lekami."
+      },
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "chemia",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      },
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "chemia analityczna",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      }
+    ],
+    "Matematyka": [
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "analiza systemów dynamicznych",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      }
+    ],
+    "Fizyka": [
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "fizyka",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      }
+    ],
+    "Statystyka": [
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "analiza danych",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      }
+    ]
+  },
+  "Technologia": {
+    "Elektronika": [
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "elektronika",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      },
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "elektronika",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      },
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "projektowanie układów elektronicznych",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      },
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "elektronika",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      },
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "elektronika",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      },
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "elektronika",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      }
+    ],
+    "Robotyka": [
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "tworzenie inteligentnych robotów przemysłowych",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      }
+    ],
+    "Inżynieria elektryczna": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "elektronika",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      },
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "elektronika",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      },
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "elektronika",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      }
+    ],
+    "Informatyka": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "informatyka",
+        "description": "Mam bogate doświadczenie w analizie big data oraz przetwarzaniu języka naturalnego, a także w zastosowaniach chemii obliczeniowej. Pracowałam przy projektach wykorzystujących informatykę, automatykę i symulacje komputerowe w badaniach nad nowymi lekami."
+      },
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "informatyka",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      },
+      {
+        "name": "Ewa",
+        "surname": "Lewandowska",
+        "skill": "informatyka",
+        "description": "Jestem specjalistką w dziedzinie biotechnologii i medycyny, z umiejętnościami informatycznymi potrzebnymi do analizy danych genetycznych oraz tworzenia systemów diagnostycznych. Łączę wiedzę z medycyny, biologii molekularnej i informatyki."
+      },
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "informatyka",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      },
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "informatyka",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      },
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "cyberbezpieczeństwo",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      },
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "programowanie mikrokontrolerów",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      },
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "programowanie",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      },
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "informatyka",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      }
+    ],
+    "Programowanie": [
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "programowanie",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      }
+    ],
+    "Inżynieria mechatroniczna": [
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "projektowanie systemów mechatronicznych",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      }
+    ],
+    "Informatyka i technologie": [
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "tworzenie prototypów sensorowych",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      }
+    ],
+    "Automatyka": [
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "automatyka",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      },
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "automatyka przemysłowa",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      }
+    ],
+    "Sieci komputerowe": [
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "monitorowanie sieci przemysłowych",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      }
+    ],
+    "Inżynieria": [
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "robotyka",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      },
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "mechanika",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      }
+    ],
+    "Inżynieria mechaniczna": [
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "robotyka",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      }
+    ]
+  },
+  "Nauki ścisłe i przyrodnicze": {
+    "Fizyka": [
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "mechanika",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      },
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "mechanika",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      },
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "mechanika",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      },
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "znajomość mechaniki",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      }
+    ],
+    "Chemia": [
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "badania materiałowe",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      },
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "synteza związków organicznych",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      }
+    ],
+    "Informatyka": [
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "symulacje komputerowe",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      }
+    ]
+  },
+  "Informatyka": {
+    "Sztuczna inteligencja": [
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "tworzenie zaawansowanych systemów autonomicznych",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      },
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "przetwarzanie języka naturalnego",
+        "description": "Mam bogate doświadczenie w analizie big data oraz przetwarzaniu języka naturalnego, a także w zastosowaniach chemii obliczeniowej. Pracowałam przy projektach wykorzystujących informatykę, automatykę i symulacje komputerowe w badaniach nad nowymi lekami."
+      },
+      {
+        "name": "Ewa",
+        "surname": "Lewandowska",
+        "skill": "tworzenie systemów diagnostycznych",
+        "description": "Jestem specjalistką w dziedzinie biotechnologii i medycyny, z umiejętnościami informatycznymi potrzebnymi do analizy danych genetycznych oraz tworzenia systemów diagnostycznych. Łączę wiedzę z medycyny, biologii molekularnej i informatyki."
+      },
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "tworzenie systemów autonomicznych",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      },
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "algorytmy uczenia maszynowego",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      }
+    ],
+    "Systemy wbudowane": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "projektowanie systemów embedded",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      }
+    ],
+    "Programowanie": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "programowanie mikrokontrolerów",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      },
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "tworzenie oprogramowania sterującego",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      },
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "symulacje komputerowe",
+        "description": "Mam bogate doświadczenie w analizie big data oraz przetwarzaniu języka naturalnego, a także w zastosowaniach chemii obliczeniowej. Pracowałam przy projektach wykorzystujących informatykę, automatykę i symulacje komputerowe w badaniach nad nowymi lekami."
+      },
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "automatyzacja procesów",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      },
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "programowanie systemów sterowania",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      }
+    ],
+    "Big Data": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "analiza big data",
+        "description": "Mam bogate doświadczenie w analizie big data oraz przetwarzaniu języka naturalnego, a także w zastosowaniach chemii obliczeniowej. Pracowałam przy projektach wykorzystujących informatykę, automatykę i symulacje komputerowe w badaniach nad nowymi lekami."
+      }
+    ],
+    "Systemy sterowania": [
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "systemy sterowania",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      }
+    ],
+    "Bezpieczeństwo informacji": [
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "projektowanie systemów zabezpieczeń",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      }
+    ],
+    "Programowanie embedded": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "projektowanie systemów embedded",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      }
+    ],
+    "Analiza danych": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "analiza big data",
+        "description": "Mam bogate doświadczenie w analizie big data oraz przetwarzaniu języka naturalnego, a także w zastosowaniach chemii obliczeniowej. Pracowałam przy projektach wykorzystujących informatykę, automatykę i symulacje komputerowe w badaniach nad nowymi lekami."
+      },
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "analiza danych",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      }
+    ],
+    "Bezpieczeństwo IT": [
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "projektowanie systemów zabezpieczeń",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      }
+    ],
+    "Sieci komputerowe": [
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "monitorowanie sieci przemysłowych",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      }
+    ]
+  },
+  "Inżynieria": {
+    "Mechatronika": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "budowa prototypów mechatronicznych",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      },
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "projektowanie systemów mechatronicznych",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      },
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "integracja systemów mechatronicznych",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      }
+    ],
+    "Automatyka": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "automatyka",
+        "description": "Mam bogate doświadczenie w analizie big data oraz przetwarzaniu języka naturalnego, a także w zastosowaniach chemii obliczeniowej. Pracowałam przy projektach wykorzystujących informatykę, automatykę i symulacje komputerowe w badaniach nad nowymi lekami."
+      },
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "automatyka",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      },
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "systemy sterowania",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      },
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "automatyka",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      },
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "automatyka przemysłowa",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      }
+    ],
+    "Mechanika": [
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "inżynieria mechaniczna",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      }
+    ],
+    "Projektowanie i konstruowanie": [
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "projektowanie CAD",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      }
+    ],
+    "Procesy produkcyjne": [
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "optymalizacja procesów produkcyjnych",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      }
+    ],
+    "Inżynieria mechatroniczna": [
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "integracja systemów mechatronicznych",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      },
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "budowa prototypów mechatronicznych",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      }
+    ],
+    "Robotyka": [
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "programowanie robotów",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      }
+    ],
+    "Automatyka i robotyka": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "automatyka",
+        "description": "Mam bogate doświadczenie w analizie big data oraz przetwarzaniu języka naturalnego, a także w zastosowaniach chemii obliczeniowej. Pracowałam przy projektach wykorzystujących informatykę, automatykę i symulacje komputerowe w badaniach nad nowymi lekami."
+      },
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "tworzenie systemów sterowania",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      },
+      {
+        "name": "Agnieszka",
+        "surname": "Nowicka",
+        "skill": "systemy sterowania",
+        "description": "Posiadam szerokie kompetencje w dziedzinie automatyki przemysłowej, robotyki oraz systemów sterowania, z solidnym zapleczem informatycznym. Moje projekty obejmują integrację systemów mechatronicznych, elektronikę oraz implementację algorytmów uczenia maszynowego."
+      }
+    ],
+    "Projektowanie techniczne": [
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "projektowanie CAD",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      }
+    ],
+    "Inżynieria produkcyjna": [
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "optymalizacja procesów produkcyjnych",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      }
+    ],
+    "Elektronika": [
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "projektowanie układów elektronicznych",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      },
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "tworzenie prototypów sensorowych",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      },
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "elektronika",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      }
+    ],
+    "Optymalizacja procesów": [
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "optymalizacja procesów produkcyjnych",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      }
+    ]
+  },
+  "Inżynieria produkcji": {
+    "Optymalizacja procesów": [
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "optymalizacja procesów produkcyjnych",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      }
+    ]
+  },
+  "Nauki przyrodnicze": {
+    "Chemia": [
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "chemia analityczna",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      }
+    ],
+    "Biologia molekularna": [
+      {
+        "name": "Ewa",
+        "surname": "Lewandowska",
+        "skill": "analiza danych genetycznych",
+        "description": "Jestem specjalistką w dziedzinie biotechnologii i medycyny, z umiejętnościami informatycznymi potrzebnymi do analizy danych genetycznych oraz tworzenia systemów diagnostycznych. Łączę wiedzę z medycyny, biologii molekularnej i informatyki."
+      }
+    ],
+    "Biologia": [
+      {
+        "name": "Ewa",
+        "surname": "Lewandowska",
+        "skill": "biologia molekularna",
+        "description": "Jestem specjalistką w dziedzinie biotechnologii i medycyny, z umiejętnościami informatycznymi potrzebnymi do analizy danych genetycznych oraz tworzenia systemów diagnostycznych. Łączę wiedzę z medycyny, biologii molekularnej i informatyki."
+      }
+    ],
+    "Fizyka": [
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "analiza danych eksperymentalnych",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      }
+    ]
+  },
+  "Nauki chemiczne": {
+    "Chemistry": [
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "synteza związków organicznych",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      }
+    ]
+  },
+  "Nauki o danych": {
+    "Analiza danych": [
+      {
+        "name": "Tomasz",
+        "surname": "Wójcik",
+        "skill": "analiza danych eksperymentalnych",
+        "description": "Posiadam doświadczenie w chemii analitycznej i syntezie związków organicznych, a jednocześnie pasjonuję się informatyką i elektroniką. Moje projekty łączą badania laboratoryjne z automatyzacją procesów oraz analizą danych eksperymentalnych."
+      }
+    ],
+    "Analiza danych chemicznych": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "chemia obliczeniowa",
+        "description": "Mam bogate doświadczenie w analizie big data oraz przetwarzaniu języka naturalnego, a także w zastosowaniach chemii obliczeniowej. Pracowałam przy projektach wykorzystujących informatykę, automatykę i symulacje komputerowe w badaniach nad nowymi lekami."
+      }
+    ]
+  },
+  "Nauki medyczne": {
+    "Medycyna": [
+      {
+        "name": "Ewa",
+        "surname": "Lewandowska",
+        "skill": "medycyna",
+        "description": "Jestem specjalistką w dziedzinie biotechnologii i medycyny, z umiejętnościami informatycznymi potrzebnymi do analizy danych genetycznych oraz tworzenia systemów diagnostycznych. Łączę wiedzę z medycyny, biologii molekularnej i informatyki."
+      }
+    ]
+  },
+  "Techniczne": {
+    "Inżynieria mechaniczna": [
+      {
+        "name": "Janusz",
+        "surname": "Kaczmarek",
+        "skill": "mechanika",
+        "description": "Specjalizuję się w projektowaniu układów elektronicznych oraz systemów mechatronicznych, łącząc umiejętności z elektroniki, mechaniki i informatyki. Moje doświadczenie obejmuje tworzenie prototypów sensorowych i systemów sterowania."
+      },
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "mechanika",
+        "description": "Specjalizuję się w projektowaniu systemów embedded i mikrokontrolerów, łącząc umiejętności informatyczne z elektroniką oraz mechaniką. Moje doświadczenie obejmuje tworzenie oprogramowania sterującego oraz budowę prototypów mechatronicznych."
+      }
+    ]
+  },
+  "Biznes i zarządzanie": {
+    "Rozwój produktu": [
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "opracowywanie nowych materiałów",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      }
+    ]
+  },
+  "technologia": {
+    "informatyka": [
+      {
+        "name": "Krzysztof",
+        "surname": "Piotrowski",
+        "skill": "informatyka",
+        "description": "Jestem ekspertem w zakresie cyberbezpieczeństwa oraz analizy danych, łącząc umiejętności informatyczne z elektroniką i automatyką. Specjalizuję się w projektowaniu systemów zabezpieczeń oraz monitorowaniu sieci przemysłowych."
+      }
+    ]
+  },
+  "Inżynieria i technologia": {
+    "Elektronika": [
+      {
+        "name": "Anna",
+        "surname": "Nowak",
+        "skill": "projektowanie układów elektronicznych",
+        "description": "Jestem inżynierką robotyki i automatyki z doświadczeniem w projektowaniu systemów sterowania. Moje kompetencje obejmują informatykę, elektronikę oraz mechanikę, co pozwala mi tworzyć zaawansowane systemy autonomiczne i inteligentne roboty przemysłowe."
+      }
+    ]
+  },
+  "Nauki techniczne": {
+    "Inżynieria mechaniczna": [
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "inżynieria mechaniczna",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      }
+    ]
+  },
+  "Matematyka": {
+    "Analiza matematyczna": [
+      {
+        "name": "Marek",
+        "surname": "Zieliński",
+        "skill": "analiza systemów dynamicznych",
+        "description": "Jestem specjalistą w zakresie inżynierii mechanicznej i projektowania CAD, z umiejętnościami programowania oraz analizy systemów dynamicznych. Łączę wiedzę z mechaniki, informatyki i automatyki, co umożliwia mi optymalizację procesów produkcyjnych."
+      }
+    ]
+  },
+  "Nauki biologiczne": {
+    "Biotechnologia": [
+      {
+        "name": "Ewa",
+        "surname": "Lewandowska",
+        "skill": "analiza danych genetycznych",
+        "description": "Jestem specjalistką w dziedzinie biotechnologii i medycyny, z umiejętnościami informatycznymi potrzebnymi do analizy danych genetycznych oraz tworzenia systemów diagnostycznych. Łączę wiedzę z medycyny, biologii molekularnej i informatyki."
+      }
+    ]
+  },
+  "Nauki Ścisłe i Przyrodnicze": {
+    "Fizyka": [
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "badania materiałowe",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      }
+    ]
+  },
+  "Nauka i technologia": {
+    "Informatyka": [
+      {
+        "name": "Marta",
+        "surname": "Szymańska",
+        "skill": "symulacje komputerowe",
+        "description": "Mam doświadczenie w badaniach materiałowych oraz symulacjach komputerowych, co łączy dziedziny chemii, fizyki i informatyki. Pracowałam przy projektach związanych z opracowywaniem nowych materiałów oraz optymalizacją procesów produkcyjnych."
+      }
+    ]
+  },
+  "Umiejętności życiowe": {
+    "Dom i kuchnia": [
+      {
+        "name": "adniel",
+        "surname": "asdweqdfe",
+        "skill": "gotowanie",
+        "description": "jestem super w jedzeniu zupy"
+      }
+    ]
+  },
+  "Information Technology": {
+    "Programming": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "programowanie niskopoziomowe",
+        "description": "Specjalista systemów embedded i mikrokontrolerów z udokumentowanym doświadczeniem w projektowaniu i wdrażaniu rozwiązań sterujących. Kluczowe kompetencje:\n- Informatyka: programowanie niskopoziomowe, systemy czasu rzeczywistego\n- Elektronika: projektowanie i testowanie układów elektronicznych\n- Mechanika: analiza konstrukcji oraz integracja rozwiązań mechatronicznych\nRealizacja projektów obejmowała budowę prototypów, optymalizację oprogramowania sterującego, etc."
+      }
+    ]
+  },
+  "Computer Science": {
+    "Real-Time Systems": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "systemy czasu rzeczywistego",
+        "description": "Specjalista systemów embedded i mikrokontrolerów z udokumentowanym doświadczeniem w projektowaniu i wdrażaniu rozwiązań sterujących. Kluczowe kompetencje:\n- Informatyka: programowanie niskopoziomowe, systemy czasu rzeczywistego\n- Elektronika: projektowanie i testowanie układów elektronicznych\n- Mechanika: analiza konstrukcji oraz integracja rozwiązań mechatronicznych\nRealizacja projektów obejmowała budowę prototypów, optymalizację oprogramowania sterującego, etc."
+      }
+    ],
+    "Computational Chemistry": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "chemia obliczeniowa",
+        "description": "Ekspertka w analizie danych oraz chemii obliczeniowej z bogatym doświadczeniem w badaniach interdyscyplinarnych. Główne obszary działania:\n- Informatyka: analiza big data, programowanie w Pythonie, implementacja algorytmów ML\n- Automatyka: symulacje komputerowe, projektowanie systemów sterowania\n- Chemia: modelowanie molekularne, chemia obliczeniowa\nPracowała przy projektach nad nowymi lekami, wdrażaniu zaawansowanych algorytmów, etc."
+      }
+    ],
+    "Simulation": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "symulacje komputerowe",
+        "description": "Ekspertka w analizie danych oraz chemii obliczeniowej z bogatym doświadczeniem w badaniach interdyscyplinarnych. Główne obszary działania:\n- Informatyka: analiza big data, programowanie w Pythonie, implementacja algorytmów ML\n- Automatyka: symulacje komputerowe, projektowanie systemów sterowania\n- Chemia: modelowanie molekularne, chemia obliczeniowa\nPracowała przy projektach nad nowymi lekami, wdrażaniu zaawansowanych algorytmów, etc."
+      }
+    ]
+  },
+  "Engineering": {
+    "Electrical Engineering": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "projektowanie układów elektronicznych",
+        "description": "Specjalista systemów embedded i mikrokontrolerów z udokumentowanym doświadczeniem w projektowaniu i wdrażaniu rozwiązań sterujących. Kluczowe kompetencje:\n- Informatyka: programowanie niskopoziomowe, systemy czasu rzeczywistego\n- Elektronika: projektowanie i testowanie układów elektronicznych\n- Mechanika: analiza konstrukcji oraz integracja rozwiązań mechatronicznych\nRealizacja projektów obejmowała budowę prototypów, optymalizację oprogramowania sterującego, etc."
+      }
+    ],
+    "Electronics Testing": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "testowanie układów elektronicznych",
+        "description": "Specjalista systemów embedded i mikrokontrolerów z udokumentowanym doświadczeniem w projektowaniu i wdrażaniu rozwiązań sterujących. Kluczowe kompetencje:\n- Informatyka: programowanie niskopoziomowe, systemy czasu rzeczywistego\n- Elektronika: projektowanie i testowanie układów elektronicznych\n- Mechanika: analiza konstrukcji oraz integracja rozwiązań mechatronicznych\nRealizacja projektów obejmowała budowę prototypów, optymalizację oprogramowania sterującego, etc."
+      }
+    ],
+    "Structural Engineering": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "analiza konstrukcji",
+        "description": "Specjalista systemów embedded i mikrokontrolerów z udokumentowanym doświadczeniem w projektowaniu i wdrażaniu rozwiązań sterujących. Kluczowe kompetencje:\n- Informatyka: programowanie niskopoziomowe, systemy czasu rzeczywistego\n- Elektronika: projektowanie i testowanie układów elektronicznych\n- Mechanika: analiza konstrukcji oraz integracja rozwiązań mechatronicznych\nRealizacja projektów obejmowała budowę prototypów, optymalizację oprogramowania sterującego, etc."
+      }
+    ],
+    "Mechatronics": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "integracja rozwiązań mechatronicznych",
+        "description": "Specjalista systemów embedded i mikrokontrolerów z udokumentowanym doświadczeniem w projektowaniu i wdrażaniu rozwiązań sterujących. Kluczowe kompetencje:\n- Informatyka: programowanie niskopoziomowe, systemy czasu rzeczywistego\n- Elektronika: projektowanie i testowanie układów elektronicznych\n- Mechanika: analiza konstrukcji oraz integracja rozwiązań mechatronicznych\nRealizacja projektów obejmowała budowę prototypów, optymalizację oprogramowania sterującego, etc."
+      }
+    ],
+    "Software Engineering": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "optymalizacja oprogramowania sterującego",
+        "description": "Specjalista systemów embedded i mikrokontrolerów z udokumentowanym doświadczeniem w projektowaniu i wdrażaniu rozwiązań sterujących. Kluczowe kompetencje:\n- Informatyka: programowanie niskopoziomowe, systemy czasu rzeczywistego\n- Elektronika: projektowanie i testowanie układów elektronicznych\n- Mechanika: analiza konstrukcji oraz integracja rozwiązań mechatronicznych\nRealizacja projektów obejmowała budowę prototypów, optymalizację oprogramowania sterującego, etc."
+      }
+    ],
+    "Aerospace Engineering": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Konstruowanie silników odrzutowych",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      },
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Projektowanie aerodynamiczne",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ],
+    "Computational Fluid Dynamics": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Modelowanie CFD",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ],
+    "Thermodynamics": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Symulacje termodynamiczne",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ],
+    "Mechanical Engineering": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Optymalizacja kształtu turbiny",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Software Development": {
+    "Prototyping": [
+      {
+        "name": "Piotr",
+        "surname": "Kowalczyk",
+        "skill": "budowa prototypów",
+        "description": "Specjalista systemów embedded i mikrokontrolerów z udokumentowanym doświadczeniem w projektowaniu i wdrażaniu rozwiązań sterujących. Kluczowe kompetencje:\n- Informatyka: programowanie niskopoziomowe, systemy czasu rzeczywistego\n- Elektronika: projektowanie i testowanie układów elektronicznych\n- Mechanika: analiza konstrukcji oraz integracja rozwiązań mechatronicznych\nRealizacja projektów obejmowała budowę prototypów, optymalizację oprogramowania sterującego, etc."
+      }
+    ]
+  },
+  "Data": {
+    "Data Analysis": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "analiza danych",
+        "description": "Ekspertka w analizie danych oraz chemii obliczeniowej z bogatym doświadczeniem w badaniach interdyscyplinarnych. Główne obszary działania:\n- Informatyka: analiza big data, programowanie w Pythonie, implementacja algorytmów ML\n- Automatyka: symulacje komputerowe, projektowanie systemów sterowania\n- Chemia: modelowanie molekularne, chemia obliczeniowa\nPracowała przy projektach nad nowymi lekami, wdrażaniu zaawansowanych algorytmów, etc."
+      }
+    ]
+  },
+  "Academic": {
+    "Interdisciplinary Studies": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "badania interdyscyplinarne",
+        "description": "Ekspertka w analizie danych oraz chemii obliczeniowej z bogatym doświadczeniem w badaniach interdyscyplinarnych. Główne obszary działania:\n- Informatyka: analiza big data, programowanie w Pythonie, implementacja algorytmów ML\n- Automatyka: symulacje komputerowe, projektowanie systemów sterowania\n- Chemia: modelowanie molekularne, chemia obliczeniowa\nPracowała przy projektach nad nowymi lekami, wdrażaniu zaawansowanych algorytmów, etc."
+      }
+    ],
+    "Research": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Publikacje naukowe",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Technology": {
+    "Information Technology": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "informatyka",
+        "description": "Ekspertka w analizie danych oraz chemii obliczeniowej z bogatym doświadczeniem w badaniach interdyscyplinarnych. Główne obszary działania:\n- Informatyka: analiza big data, programowanie w Pythonie, implementacja algorytmów ML\n- Automatyka: symulacje komputerowe, projektowanie systemów sterowania\n- Chemia: modelowanie molekularne, chemia obliczeniowa\nPracowała przy projektach nad nowymi lekami, wdrażaniu zaawansowanych algorytmów, etc."
+      }
+    ],
+    "Computer Engineering": [
+      {
+        "name": "daniel",
+        "surname": "erogheriouhgeriugheriugih",
+        "skill": "embedded systems",
+        "description": "ubiwlbiam pieck ciasta oraz naleśnik oraz programuje embedded  mikroukłady"
+      }
+    ],
+    "Information Security": [
+      {
+        "name": "daniel",
+        "surname": "klasfwergewrg",
+        "skill": "specialist in electronic locks",
+        "description": "sepcjlaista do napraw  butów oraz naprawy elmentów skorzanych, specjalista do elektronicznych zamków"
+      }
+    ],
+    "Artificial Intelligence": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Generatywna sztuczna inteligencja",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      },
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Machine learning",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Programming": {
+    "Python": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "programowanie w Pythonie",
+        "description": "Ekspertka w analizie danych oraz chemii obliczeniowej z bogatym doświadczeniem w badaniach interdyscyplinarnych. Główne obszary działania:\n- Informatyka: analiza big data, programowanie w Pythonie, implementacja algorytmów ML\n- Automatyka: symulacje komputerowe, projektowanie systemów sterowania\n- Chemia: modelowanie molekularne, chemia obliczeniowa\nPracowała przy projektach nad nowymi lekami, wdrażaniu zaawansowanych algorytmów, etc."
+      },
+      {
+        "name": "asd",
+        "surname": "asdasdasew",
+        "skill": "programowanie w Python",
+        "description": "bardzo dobrze jem zupę , oraz programowanie w python"
+      }
+    ],
+    "Scripting": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Python",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ],
+    "Scripting Languages": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "MATLAB",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ],
+    "Software Development": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "C++",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Data Science & Machine Learning": {
+    "Machine Learning Development": [
+      {
+        "name": "Katarzyna",
+        "surname": "Wiśniewska",
+        "skill": "implementacja algorytmów ML",
+        "description": "Ekspertka w analizie danych oraz chemii obliczeniowej z bogatym doświadczeniem w badaniach interdyscyplinarnych. Główne obszary działania:\n- Informatyka: analiza big data, programowanie w Pythonie, implementacja algorytmów ML\n- Automatyka: symulacje komputerowe, projektowanie systemów sterowania\n- Chemia: modelowanie molekularne, chemia obliczeniowa\nPracowała przy projektach nad nowymi lekami, wdrażaniu zaawansowanych algorytmów, etc."
+      }
+    ],
+    "Predictive Maintenance": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Predykcja awarii",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Language": {
+    "Natural Language": [
+      {
+        "name": "asd",
+        "surname": "asdasdasew",
+        "skill": "język polski",
+        "description": "bardzo dobrze jem zupę , oraz programowanie w python"
+      }
+    ]
+  },
+  "Life Skills": {
+    "Cooking": [
+      {
+        "name": "asd",
+        "surname": "asdasdasew",
+        "skill": "umiejętność jedzenia zupy",
+        "description": "bardzo dobrze jem zupę , oraz programowanie w python"
+      },
+      {
+        "name": "ew",
+        "surname": "wefw",
+        "skill": "cooking",
+        "description": "bardzo lubię plaski jeść i piec oraz programować talerze"
+      }
+    ]
+  },
+  "Culinary Arts": {
+    "Cooking and Baking": [
+      {
+        "name": "ew",
+        "surname": "wefw",
+        "skill": "baking",
+        "description": "bardzo lubię plaski jeść i piec oraz programować talerze"
+      }
+    ],
+    "Cooking": [
+      {
+        "name": "daniel",
+        "surname": "erogheriouhgeriugheriugih",
+        "skill": "baking",
+        "description": "ubiwlbiam pieck ciasta oraz naleśnik oraz programuje embedded  mikroukłady"
+      }
+    ],
+    "Beverage Preparation": [
+      {
+        "name": "dan",
+        "surname": "egwrr",
+        "skill": "robienie dobrej kawy",
+        "description": "układanie lego, uwielbiam spań, robienie dobrej kawy, piwo"
+      }
+    ]
+  },
+  "Technical Skills": {
+    "Software Development": [
+      {
+        "name": "ew",
+        "surname": "wefw",
+        "skill": "programming",
+        "description": "bardzo lubię plaski jeść i piec oraz programować talerze"
+      }
+    ],
+    "Programming": [
+      {
+        "name": "daniel",
+        "surname": "erogheriouhgeriugheriugih",
+        "skill": "programming",
+        "description": "ubiwlbiam pieck ciasta oraz naleśnik oraz programuje embedded  mikroukłady"
+      }
+    ],
+    "Engineering": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Obsługa narzędzi CAD/CAM",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Craftsmanship": {
+    "Shoemaking": [
+      {
+        "name": "daniel",
+        "surname": "klasfwergewrg",
+        "skill": "repairing shoes",
+        "description": "sepcjlaista do napraw  butów oraz naprawy elmentów skorzanych, specjalista do elektronicznych zamków"
+      }
+    ],
+    "Handcrafting": [
+      {
+        "name": "daniel",
+        "surname": "klasfwergewrg",
+        "skill": "repairing leather items",
+        "description": "sepcjlaista do napraw  butów oraz naprawy elmentów skorzanych, specjalista do elektronicznych zamków"
+      }
+    ],
+    "Repair and Maintenance": [
+      {
+        "name": "daniel",
+        "surname": "kleczynski",
+        "skill": "reperowanie",
+        "description": "pasjonuje się rzeźbiarstwem , w szczególności artystami z Rzymu, w wolnej chwili reperowaniem czajników"
+      }
+    ]
+  },
+  "Arts": {
+    "Sculpture": [
+      {
+        "name": "daniel",
+        "surname": "kleczynski",
+        "skill": "rzeźbiarstwo",
+        "description": "pasjonuje się rzeźbiarstwem , w szczególności artystami z Rzymu, w wolnej chwili reperowaniem czajników"
+      }
+    ],
+    "Photography": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Fotografia podwodna",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Creative Skills": {
+    "Crafting": [
+      {
+        "name": "dan",
+        "surname": "egwrr",
+        "skill": "układanie lego",
+        "description": "układanie lego, uwielbiam spań, robienie dobrej kawy, piwo"
+      }
+    ]
+  },
+  "Legal": {
+    "Intellectual Property Law": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Patenty",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Sports": {
+    "Water Sports": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Pływanie",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ],
+    "Water sports": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Instruktor nurkowania",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ],
+    "Endurance Sports": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Triathlon",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Science": {
+    "Physics": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Hydrodynamika",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Education": {
+    "STEM Education": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Edukacja STEM",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  },
+  "Communication": {
+    "Public Speaking": [
+      {
+        "name": "mateusz",
+        "surname": "grabowski",
+        "skill": "Prelekcje TEDx",
+        "description": "Doświadczony konstruktor silników odrzutowych z 15-letnim stażem, specjalizujący się w wykorzystaniu generatywnej AI do optymalizacji projektów aerodynamicznych. Ekspert w modelowaniu CFD i symulacjach termodynamicznych, biegle posługuje się narzędziami CAD/CAM oraz językami programowania Python, MATLAB i C++. W swojej pracy wykorzystuje machine learning do predykcji awarii i optymalizacji kształtu łopatek turbiny, tworząc innowacyjne rozwiązania nagrodzone 12 patentami.\n\nPoza pracą zawodową jest pasjonatem pływania - licencjonowany instruktor z uprawnieniami PADI Divemaster i ukończony pięciokrotnie triathlonista Ironman. Fascynuje go hydrodynamika, co łączy prowadząc blog o przepływach w silnikach i wodzie. W wolnym czasie zajmuje się fotografią podwodną i prowadzi wolontariat edukacyjny STEM. Jego innowacyjne podejście doceniono nagrodą \"Innovator of the Year\" w branży aerospace, a swoją wiedzą dzieli się jako prelegent TEDx i autor publikacji w prestiżowych czasopismach naukowych."
+      }
+    ]
+  }
+}
